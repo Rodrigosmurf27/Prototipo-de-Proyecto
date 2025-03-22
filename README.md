@@ -89,6 +89,7 @@ Pueden ser visualizados en la rama CV211229
  ## Enlace del video
  
 https://drive.google.com/file/d/1AffuhCWDbJYU3dVeaA7UC0xlROXeAAZF/view?usp=sharing
+**Se puede poner en calidad 1080p**
 
 ## Estudiantes
  
