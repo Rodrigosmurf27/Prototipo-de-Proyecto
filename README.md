@@ -17,7 +17,7 @@ El sistema debe permitir el registro de empleados, la configuración de su costo
   - [Estudiantes](#Estudiantes)
   
  
-## Mockups pt.1
+## Primeros 5 Mockups
 - Realizado por: Gudiel Magaña, Emerson Alexander – GM171814 
 
     **Descripcion de los primeros 5 Mockups**
@@ -91,8 +91,12 @@ https://drive.google.com/file/d/1AffuhCWDbJYU3dVeaA7UC0xlROXeAAZF/view?usp=shari
 **Nombres de los participantes con Usuarios de GitHub**
   
 Velasco Herrera, Rodrigo Alberto - VH192433 GitHub (Rodrigosmurf27)
+
 Chavarria Velasquez, Manuel Alejandro - CV211229 GitHub (CV211229)
+
 Aguilar Cruz, Joel Ernesto - AC223047 GitHub (AC223047)
+
 Del Cid Ponce, Kevin Alexander - DP191337 GitHub (Kev20DC)
+
 Gudiel Magaña, Emerson Alexander – GM171814 GitHub (emersongudiel98)
 
