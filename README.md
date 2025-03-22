@@ -45,7 +45,7 @@ El sistema debe permitir el registro de empleados, la configuración de su costo
 4. Actividades.
 5. Sobre Nosotros.
 
-   **Enlace de los primeros 5 Mockups**
+   **Enlace de los Segundos 5 Mockups**
 
  https://www.canva.com/design/DAGh5336hyU/hM2lxiX3DF7POkbFKKUvng/edit?utm_content=DAGh5336hyU&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
 
