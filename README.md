@@ -17,7 +17,8 @@ El sistema debe permitir el registro de empleados, la configuración de su costo
   - [Estudiantes](#Estudiantes)
   
  
-## Primeros 5 Mockups
+## Mockups pt.1
+
 - Realizado por: Gudiel Magaña, Emerson Alexander – GM171814 
 
     **Descripcion de los primeros 5 Mockups**
@@ -33,6 +34,7 @@ El sistema debe permitir el registro de empleados, la configuración de su costo
   https://www.canva.com/design/DAGiOC8Es8c/CkLdJF8F5POJ58Kv4NYwlg/edit?utm_content=DAGiOC8Es8c&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
 
 ## Mockups pt.2
+
 - Realizado por: Kevin Alexander Del Cid Ponce - DP191337
 
     **Descripcion de los segundos 5 Mockups**
@@ -49,6 +51,7 @@ El sistema debe permitir el registro de empleados, la configuración de su costo
 
 
 ## Diagrama de Clases
+
 - Realizado por: Aguilar Cruz, Joel Ernesto - AC223047 
 
     **Diagrama de clases**
@@ -60,6 +63,7 @@ Diagrama de Clases Realizado en MYSQL Workbench
  https://drive.google.com/drive/folders/11yGi552NXt7yrUbG4HZCePE8x0gKyPl7?usp=drive_link
 
  ## Diagrama Entidad Relacion
+ 
 - Realizado por: Aguilar Cruz, Joel Ernesto - AC223047 
 
     **Diagrama de clases**
@@ -90,13 +94,13 @@ https://drive.google.com/file/d/1AffuhCWDbJYU3dVeaA7UC0xlROXeAAZF/view?usp=shari
  
 **Nombres de los participantes con Usuarios de GitHub**
   
-Velasco Herrera, Rodrigo Alberto - VH192433 GitHub (Rodrigosmurf27)
+- Velasco Herrera, Rodrigo Alberto - VH192433 GitHub (Rodrigosmurf27)
 
-Chavarria Velasquez, Manuel Alejandro - CV211229 GitHub (CV211229)
+- Chavarria Velasquez, Manuel Alejandro - CV211229 GitHub (CV211229)
 
-Aguilar Cruz, Joel Ernesto - AC223047 GitHub (AC223047)
+- Aguilar Cruz, Joel Ernesto - AC223047 GitHub (AC223047)
 
-Del Cid Ponce, Kevin Alexander - DP191337 GitHub (Kev20DC)
+- Del Cid Ponce, Kevin Alexander - DP191337 GitHub (Kev20DC)
 
-Gudiel Magaña, Emerson Alexander – GM171814 GitHub (emersongudiel98)
+- Gudiel Magaña, Emerson Alexander – GM171814 GitHub (emersongudiel98)
 
